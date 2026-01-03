@@ -1,0 +1,19 @@
+.article{
+    border: 20px solid black;
+    background-color: aquamarine;
+    margin-block: calc();
+    padding: 20px;
+    margin: 40px;
+    width: 400px;
+    box-shadow: 10px 20px 7px greenyellow;
+
+}
+.header{
+    height: 400px;
+    background-color: aqua;
+    color: azure;
+    padding: 20px;
+    background-image: url("jh.jpg");
+    background-size: cover;
+}
+
